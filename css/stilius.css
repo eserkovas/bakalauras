@@ -1,0 +1,21 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
+
+.navigacija .adresas {
+    display: block;
+    color: #FFFFFF;
+    text-align: left;
+}
+
+.navigacija a {
+    text-decoration: none !important;
+}
+
+.navigacija-mb .adresas {
+    display: block;
+    color: #FFFFFF;
+    text-align: left;
+}
+
+.navigacija-mb a {
+    text-decoration: none !important;
+}
