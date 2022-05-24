@@ -1,6 +1,6 @@
 <?php
 
-$conn = new mysqli('194.135.87.14', 'haplay_bak', '6tr5adesPuFQ6JY8', 'haplay_bak');
+$conn = new mysqli('', '', '', '');
 
 if($conn->connect_error) {
 
